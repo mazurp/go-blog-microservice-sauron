@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04d7934b-b320-461b-9330-dd67b53d4d17" name="Default Changelist" comment="" />
+    <list default="true" id="04d7934b-b320-461b-9330-dd67b53d4d17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,5 +95,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="903" y="360" key="#Plugins" timestamp="1598992061976">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="903" y="360" key="#Plugins/62.0.2498.1440@62.0.2498.1440" timestamp="1598992061976" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1598992037737">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/62.0.2498.1440@62.0.2498.1440" timestamp="1598992037737" />
   </component>
 </project>
