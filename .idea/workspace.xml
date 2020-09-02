@@ -25,7 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d7934b-b320-461b-9330-dd67b53d4d17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -98,10 +100,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1103" y="553" key="#Go_Modules" timestamp="1599061537818">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1103" y="553" key="#Go_Modules/62.0.2498.1440@62.0.2498.1440" timestamp="1599061537818" />
     <state x="903" y="360" key="#Plugins" timestamp="1598992061976">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="903" y="360" key="#Plugins/62.0.2498.1440@62.0.2498.1440" timestamp="1598992061976" />
+    <state x="1076" y="521" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599061562408">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1076" y="521" key="#com.intellij.fileTypes.FileTypeChooser/62.0.2498.1440@62.0.2498.1440" timestamp="1599061562408" />
+    <state x="1041" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599061687127">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1041" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.2498.1440@62.0.2498.1440" timestamp="1599061687127" />
+    <state width="1227" height="413" key="GridCell.Tab.0.bottom" timestamp="1599061854574">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1227" height="413" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1599061854574" />
+    <state width="1227" height="413" key="GridCell.Tab.0.center" timestamp="1599061854574">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1227" height="413" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1599061854574" />
+    <state width="1227" height="413" key="GridCell.Tab.0.left" timestamp="1599061854573">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1227" height="413" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1599061854573" />
+    <state width="1227" height="413" key="GridCell.Tab.0.right" timestamp="1599061854574">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1227" height="413" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1599061854574" />
     <state x="974" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1598992037737">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
